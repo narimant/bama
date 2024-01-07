@@ -1,6 +1,6 @@
 import HomeHeader from '@/components/template/HomeHeader'
 import MostPopular from '@/components/template/MostPopular'
-import Image from 'next/image'
+
 
 
 
